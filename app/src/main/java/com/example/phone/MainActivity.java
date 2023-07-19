@@ -1,4 +1,4 @@
-package com.example.sharanphonedialer;
+package com.example.phone;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;

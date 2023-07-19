@@ -1,4 +1,4 @@
-package com.example.sharanphonedialer;
+package com.example.phone;
 
 import android.content.Context;
 

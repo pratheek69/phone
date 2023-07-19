@@ -7,7 +7,7 @@ android {
     buildToolsVersion "33.0.2"
 
     defaultConfig {
-        applicationId "com.example.sharanphonedialer"
+        applicationId "com.example.phone"
         minSdkVersion 27
         targetSdkVersion 33
         versionCode 1
